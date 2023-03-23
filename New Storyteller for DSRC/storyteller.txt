@@ -1,0 +1,8 @@
+st_cn_mynock TAB Mynock
+st_cn_dantari_male TAB Male Dantari
+st_cn_dantari_female TAB Female Dantari
+st_cn_sayormi_queen TAB Sayormi Queen
+st_cn_sayormi_warrior TAB Sayormi Warrior
+st_cn_sayormi_witch TAB Sayormi Witch
+st_cn_hutt_male TAB Male Hutt
+st_cn_hutt_female TAB Female Hutt

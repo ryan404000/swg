@@ -7,7 +7,14 @@ st_cn_sayormi_queen	object/tangible/storyteller/story_token_combat_npc.iff	story
 st_cn_sayormi_warrior	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Sayormi Warrior	This item will spawn a Sayormi Warrior combat npc.
 st_cn_sayormi_witch	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Sayormi Witch	This item will spawn a Sayormi Witch combat npc.
 st_cn_hutt_male	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Male Hutt	This item will spawn a male Hutt combat npc.
-st_cn_hutt_female	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Female Dantari	This item will spawn a female Hutt combat npc.
+st_cn_hutt_female	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Female Hutt	This item will spawn a female Hutt combat npc.
+st_cn_hk47	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-47	This item will spawn a female Hutt combat npc.
+st_cn_hk77	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-77	This item will spawn a female Hutt combat npc.
+st_cn_lava_flea	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Lava Flea	This item will spawn a female Hutt combat npc.
+st_cn_jundak	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Jundak	This item will spawn a female Hutt combat npc.
+st_cn_tanray	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tanray	This item will spawn a female Hutt combat npc.
+st_cn_tulrus	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tulrus	This item will spawn a female Hutt combat npc.
+st_cn_xandank	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Xandank	This item will spawn a female Hutt combat npc.
 weapon_pistol_02_01	object/weapon/ranged/pistol/pistol_d18.iff	weapon						2	45			1	Basic D18 Pistol	A basic pistol in dire need of cleaning.	level 5 required
 weapon_rifle_02_01	object/weapon/ranged/rifle/rifle_dlt20.iff	weapon						2	45			1	Basic DLT-20 Rifle	A basic rifle in dire need of cleaning.	level 5 required
 weapon_carbine_02_01	object/weapon/ranged/carbine/carbine_dh17.iff	weapon						2	45			1	Basic DH-17 Carbine	A basic carbine in dire need of cleaning.	level 5 required

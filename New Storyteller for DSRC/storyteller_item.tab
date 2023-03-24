@@ -8,6 +8,13 @@ st_cn_sayormi_warrior	object/mobile/dressed_sayormi_warrior_01.iff	combat_npc	25
 st_cn_sayormi_witch	object/mobile/dressed_sayormi_witch_01.iff	combat_npc	250	
 st_cn_hutt_male	object/mobile/hutt_male.iff	combat_npc	250
 st_cn_hutt_female	object/mobile/hutt_female.iff	combat_npc	250	
+st_cn_hk47	object/mobile/som/hk47.iff	combat_npc	250	
+st_cn_hk77	object/mobile/som/hk77.iff	combat_npc	250	
+st_cn_lava_flea	object/mobile/som/lava_flea.iff	combat_npc	250	
+st_cn_jundak	object/mobile/som/jundak.iff	combat_npc	250	
+st_cn_tanray	object/mobile/som/tanray.iff	combat_npc	250	
+st_cn_tulrus	object/mobile/som/tulrus.iff	combat_npc	250	
+st_cn_xandank	object/mobile/som/xandank.iff	combat_npc	250	
 st_th_flat_small_01_01	object/tangible/storyteller/theater/flat_layer_small.iff	theater	-1	1							10		
 st_th_flat_medium_01_01	object/tangible/storyteller/theater/flat_layer_medium.iff	theater	-1	1							25		
 st_th_flat_large_01_01	object/tangible/storyteller/theater/flat_layer_large.iff	theater	-1	1							50		

@@ -8,13 +8,27 @@ st_cn_sayormi_warrior	object/tangible/storyteller/story_token_combat_npc.iff	sto
 st_cn_sayormi_witch	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Sayormi Witch	This item will spawn a Sayormi Witch combat npc.
 st_cn_hutt_male	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Male Hutt	This item will spawn a male Hutt combat npc.
 st_cn_hutt_female	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Female Hutt	This item will spawn a female Hutt combat npc.
-st_cn_hk47	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-47	This item will spawn a female Hutt combat npc.
-st_cn_hk77	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-77	This item will spawn a female Hutt combat npc.
-st_cn_lava_flea	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Lava Flea	This item will spawn a female Hutt combat npc.
-st_cn_jundak	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Jundak	This item will spawn a female Hutt combat npc.
-st_cn_tanray	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tanray	This item will spawn a female Hutt combat npc.
-st_cn_tulrus	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tulrus	This item will spawn a female Hutt combat npc.
-st_cn_xandank	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Xandank	This item will spawn a female Hutt combat npc.
+st_cn_hk47	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-47	This item will spawn an HK-47 combat npc.
+st_cn_hk77	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	HK-77	This item will spawn an HK-77 combat npc.
+st_cn_lava_flea	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Lava Flea	This item will spawn a Lava Flea combat npc.
+st_cn_jundak	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Jundak	This item will spawn a Jundak combat npc.
+st_cn_tanray	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tanray	This item will spawn a Tanray combat npc.
+st_cn_tulrus	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Tulrus	This item will spawn a Tulrus combat npc.
+st_cn_xandank	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Xandank	This item will spawn a Xandank combat npc.
+st_cn_kubaza_beetle	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Kubaza Beetle	This item will spawn a Kubaza Beetle combat npc.
+st_cn_blistmok	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_must_mining_droid	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_male_mustafarian	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_ig106	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_death_watch_01	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_death_watch_02	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_death_watch_03	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_death_watch_04	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_general_grievous	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_hailfire_droid	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_pit_droid	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_toydarian	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
+st_cn_ronto	object/tangible/storyteller/story_token_combat_npc.iff	storyteller								object.autostack	2	0	Blistmok	This item will spawn a Blistmok combat npc.
 weapon_pistol_02_01	object/weapon/ranged/pistol/pistol_d18.iff	weapon						2	45			1	Basic D18 Pistol	A basic pistol in dire need of cleaning.	level 5 required
 weapon_rifle_02_01	object/weapon/ranged/rifle/rifle_dlt20.iff	weapon						2	45			1	Basic DLT-20 Rifle	A basic rifle in dire need of cleaning.	level 5 required
 weapon_carbine_02_01	object/weapon/ranged/carbine/carbine_dh17.iff	weapon						2	45			1	Basic DH-17 Carbine	A basic carbine in dire need of cleaning.	level 5 required

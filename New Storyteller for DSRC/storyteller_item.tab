@@ -15,6 +15,20 @@ st_cn_jundak	object/mobile/som/jundak.iff	combat_npc	250
 st_cn_tanray	object/mobile/som/tanray.iff	combat_npc	250	
 st_cn_tulrus	object/mobile/som/tulrus.iff	combat_npc	250	
 st_cn_xandank	object/mobile/som/xandank.iff	combat_npc	250	
+st_cn_kubaza_beetle	object/mobile/som/kubaza_beetle.iff	combat_npc	250	
+st_cn_blistmok	object/mobile/som/blistmok.iff	combat_npc	250	
+st_cn_must_mining_droid	object/mobile/som/must_mining_droid_mark_01.iff	combat_npc	250	
+st_cn_male_mustafarian	object/mobile/som/mustafarian_m_01.iff	combat_npc	250	
+st_cn_ig106	object/mobile/som/ig106.iff	combat_npc	250	
+st_cn_death_watch_01	object/mobile/dressed_death_watch_gold.iff	combat_npc	250	
+st_cn_death_watch_02	object/mobile/dressed_death_watch_grey.iff	combat_npc	250	
+st_cn_death_watch_03	object/mobile/dressed_death_watch_red.iff	combat_npc	250	
+st_cn_death_watch_04	object/mobile/dressed_death_watch_silver.iff	combat_npc	250	
+st_cn_general_grievous	object/mobile/ep3/general_grievous.iff	combat_npc	250	
+st_cn_hailfire_droid	object/mobile/hailfire_droid.iff	combat_npc	250	
+st_cn_pit_droid	object/mobile/pit_droid.iff	combat_npc	250	
+st_cn_toydarian	object/mobile/toydarian_m.iff	combat_npc	250	
+st_cn_ronto	object/mobile/ronto.iff	combat_npc	250	
 st_th_flat_small_01_01	object/tangible/storyteller/theater/flat_layer_small.iff	theater	-1	1							10		
 st_th_flat_medium_01_01	object/tangible/storyteller/theater/flat_layer_medium.iff	theater	-1	1							25		
 st_th_flat_large_01_01	object/tangible/storyteller/theater/flat_layer_large.iff	theater	-1	1							50		

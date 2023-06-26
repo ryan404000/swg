@@ -29,6 +29,23 @@ st_cn_hailfire_droid	object/mobile/hailfire_droid.iff	combat_npc	250
 st_cn_pit_droid	object/mobile/pit_droid.iff	combat_npc	250	
 st_cn_toydarian	object/mobile/toydarian_m.iff	combat_npc	250	
 st_cn_ronto	object/mobile/ronto.iff	combat_npc	250	
+st_cn_imperial_moff_m	object/mobile/dressed_imperial_moff_m.iff	combat_npc	250	
+st_cn_imperial_major_m	object/mobile/dressed_imperial_major_m.iff	combat_npc	250	
+st_cn_imperial_general_m	object/mobile/dressed_imperial_general_m.iff	combat_npc	250	
+st_cn_imperial_gunner_m	object/mobile/dressed_imperial_gunner_m.iff	combat_npc	250	
+st_cn_imperial_admiral_f	object/mobile/dressed_imperial_admiral_f.iff	combat_npc	250	
+st_cn_imperial_admiral_m	object/mobile/dressed_imperial_admiral_m.iff	combat_npc	250	
+st_cn_imperial_atat_pilot_m	object/mobile/dressed_imperial_atat_pilot_m.iff	combat_npc	250	
+st_cn_imperial_captain_m	object/mobile/dressed_imperial_captain_m.iff	combat_npc	250	
+st_cn_imperial_medic_m	object/mobile/dressed_imperial_medic1_human_male_01.iff	combat_npc	250	
+st_cn_imperial_sniper_m	object/mobile/dressed_stormtrooper_sniper_m.iff	combat_npc	250	
+st_cn_imperial_sandtrooper_commander_m	object/mobile/dressed_stormtrooper_sand_trooper_m.iff	combat_npc	250	
+st_cn_imperial_sandtrooper_m	object/mobile/dressed_stormtrooper_sandtrooper_m.iff	combat_npc	250	
+st_cn_imperial_scout_trooper_m	object/mobile/dressed_scout_trooper_m.iff	combat_npc	250	
+st_cn_talz	object/mobile/coa_aclo_personnel_talz.iff	combat_npc	250	
+st_pr_arc170	object/ship/arc170_tier5.iff	prop	750									1	
+st_pr_awing	object/ship/awing.iff	prop	750									1	
+st_pr_bwing	object/ship/bwing.iff	prop	750									1	
 st_th_flat_small_01_01	object/tangible/storyteller/theater/flat_layer_small.iff	theater	-1	1							10		
 st_th_flat_medium_01_01	object/tangible/storyteller/theater/flat_layer_medium.iff	theater	-1	1							25		
 st_th_flat_large_01_01	object/tangible/storyteller/theater/flat_layer_large.iff	theater	-1	1							50		

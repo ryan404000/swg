@@ -43,9 +43,38 @@ st_cn_imperial_sandtrooper_commander_m	object/mobile/dressed_stormtrooper_sand_t
 st_cn_imperial_sandtrooper_m	object/mobile/dressed_stormtrooper_sandtrooper_m.iff	combat_npc	250	
 st_cn_imperial_scout_trooper_m	object/mobile/dressed_scout_trooper_m.iff	combat_npc	250	
 st_cn_talz	object/mobile/coa_aclo_personnel_talz.iff	combat_npc	250	
+st_cn_imperial_darktrooper_1	object/mobile/som/som_kenobi_reunite_dark_trooper.iff	combat_npc	250	
+st_cn_imperial_darktrooper_2	object/mobile/dark_trooper.iff	combat_npc	250	
+st_cn_imperial_darktrooper_3	object/mobile/dressed_dark_trooper_black_hole.iff	combat_npc	250	
+st_cn_rebel_specforce	object/mobile/rebel_specforce_hum_m.iff	combat_npc	250	
+st_cn_rebel_snow_trooper_1_f	object/mobile/rebel_snow_f_01.iff	combat_npc	250	
+st_cn_rebel_snow_trooper_1_m	object/mobile/rebel_snow_m_01.iff	combat_npc	250	
+st_cn_talz	object/mobile/coa_aclo_personnel_talz.iff	combat_npc	250	
+st_cn_talz	object/mobile/coa_aclo_personnel_talz.iff	combat_npc	250	
+st_cn_talz	object/mobile/coa_aclo_personnel_talz.iff	combat_npc	250	
 st_pr_arc170	object/ship/arc170_tier5.iff	prop	750									1	
 st_pr_awing	object/ship/awing.iff	prop	750									1	
 st_pr_bwing	object/ship/bwing.iff	prop	750									1	
+st_pr_z95	object/ship/basic_z95.iff	prop	750									1	
+st_pr_jedi_starfighter	object/ship/jedi_starfighter.iff	prop	750									1	
+st_pr_ywing	object/ship/ywing.iff	prop	750									1	
+st_pr_ywing_longprobe	object/ship/ywing_longprobe.iff	prop	750									1	
+st_pr_firespray	object/ship/firespray.iff	prop	750									1	
+st_pr_grievous_starship	object/ship/grievous_starship.iff	prop	750									1	
+st_pr_sorosuub_space_yacht	object/ship/sorosuub_space_yacht.iff	prop	750									1	
+st_pr_tieadvanced	object/ship/tieadvanced.iff	prop	750									1	
+st_pr_tieaggressor	object/ship/tieaggressor.iff	prop	750									1	
+st_pr_tieinterceptor	object/ship/tieinterceptor.iff	prop	750									1	
+st_pr_tieoppressor	object/ship/tieoppressor.iff	prop	750									1	
+st_pr_twing	object/ship/twing.iff	prop	750									1	
+st_pr_vwing	object/ship/vwing.iff	prop	750									1	
+st_pr_rebel_gunboat	object/ship/rebel_gunboat.iff	prop	750									1	
+st_pr_rebel_shuttle_tier1	object/ship/rebel_shuttle_tier1.iff	prop	750									1	
+st_pr_y8_mining_ship	object/ship/y8_mining_ship.iff	prop	750									1	
+st_pr_	object/ship/.iff	prop	750									1	
+st_pr_y8_mining_ship	object/ship/y8_mining_ship.iff	prop	750									1	
+st_pr_y8_mining_ship	object/ship/y8_mining_ship.iff	prop	750									1	
+
 st_th_flat_small_01_01	object/tangible/storyteller/theater/flat_layer_small.iff	theater	-1	1							10		
 st_th_flat_medium_01_01	object/tangible/storyteller/theater/flat_layer_medium.iff	theater	-1	1							25		
 st_th_flat_large_01_01	object/tangible/storyteller/theater/flat_layer_large.iff	theater	-1	1							50		
